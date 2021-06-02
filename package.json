@@ -1,0 +1,16 @@
+{
+  "name": "server-info",
+  "version": "1.0.0",
+  "description": "micro server showing servers' system information",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "getmac": "^5.17.0"
+  }
+}
